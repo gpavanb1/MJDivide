@@ -1,6 +1,6 @@
 # MJDivide
 
-This repository contains code to split the [Midjourney]() output grid images into individual images in bulk
+This repository contains code to split the [Midjourney](https://midjourney.com) output grid images into individual images in bulk
 
 ## How to install?
 Make sure to install the dependencies listed using `pip install -r requirements.txt`
